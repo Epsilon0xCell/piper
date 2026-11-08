@@ -1,3 +1,7 @@
+![piper banner: a small wooden machine on a walnut table feeding a tall brass gramophone horn, a paper tape of punched holes running into the machine from a spool at the left, warm light glowing inside the horn's bell](banner.png)
+
+<p align="center"><img src="logo.png" alt="piper logo: the flared brass bell of a gramophone horn seen from the front, warm amber light glowing deep inside it, on a walnut base against a dark ground" width="200"></p>
+
 ![Piper logo](etc/logo.png)
 
 A fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4.
